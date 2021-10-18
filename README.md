@@ -1,3 +1,7 @@
+
+![Andy Girkin's GitHub](https://user-images.githubusercontent.com/91711969/137808758-11d011cd-2e78-44b6-bb73-87720768184a.png)
+
+
 ### Hi there 👋, My name is Andy Girkin
 #### I am a Director of Transformation
 Career Highlights;
