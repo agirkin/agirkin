@@ -1,65 +1,65 @@
 <Contract xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/PRISM.Sis.CrmConnect.Interfaces.Contracts.DataContract.Model">
    <AirlineAccountAnalystContactId>83398</AirlineAccountAnalystContactId>
-   <AirlineAccountAnalystContactName>Nielsen, Connor</AirlineAccountAnalystContactName>
-   <AirlineAccountManagerContactId>68799</AirlineAccountManagerContactId>
-   <AirlineAccountManagerContactName>Barrientes, Chriselda</AirlineAccountManagerContactName>
+   <AirlineAccountAnalystContactName>Smith Connor</AirlineAccountAnalystContactName>
+   <AirlineAccountManagerContactId>687998</AirlineAccountManagerContactId>
+   <AirlineAccountManagerContactName>Smith, Chriselda</AirlineAccountManagerContactName>
    <AirlineLegalNotificationContactId>7774</AirlineLegalNotificationContactId>
    <AirlineLegalNotificationContactName>North America Sales, HDQVW</AirlineLegalNotificationContactName>
    <AirlineSignedByContactId>57564</AirlineSignedByContactId>
-   <AirlineSignedByContactName>Cefolia, Jacob</AirlineSignedByContactName>
+   <AirlineSignedByContactName>Testerman, Jacob</AirlineSignedByContactName>
    <Carriers>
       <ContractCarrier>
-         <CarrierCode>AC</CarrierCode>
-         <CarrierName>Air Canada (AC)</CarrierName>
+         <CarrierCode>AG</CarrierCode>
+         <CarrierName>Airline Green(AC)</CarrierName>
       </ContractCarrier>
       <ContractCarrier>
-         <CarrierCode>DL</CarrierCode>
-         <CarrierName>Delta Air Lines (DL)</CarrierName>
+         <CarrierCode>EL</CarrierCode>
+         <CarrierName>Beltline Airlines (DL)</CarrierName>
       </ContractCarrier>
       <ContractCarrier>
-         <CarrierCode>LH</CarrierCode>
-         <CarrierName>Lufthansa (LH)</CarrierName>
+         <CarrierCode>LJ</CarrierCode>
+         <CarrierName>Lowjack Airways (LJ)</CarrierName>
       </ContractCarrier>
       <ContractCarrier>
-         <CarrierCode>NH</CarrierCode>
-         <CarrierName>All Nippon Airways (NH)</CarrierName>
+         <CarrierCode>YH</CarrierCode>
+         <CarrierName>YeeHaw Air (NH)</CarrierName>
       </ContractCarrier>
       <ContractCarrier>
-         <CarrierCode>OS</CarrierCode>
-         <CarrierName>Austrian Airlines (OS)</CarrierName>
+         <CarrierCode>OX</CarrierCode>
+         <CarrierName>Oaxaca Airlines (OX)</CarrierName>
       </ContractCarrier>
       <ContractCarrier>
-         <CarrierCode>SN</CarrierCode>
-         <CarrierName>Brussels Airlines (SN)</CarrierName>
+         <CarrierCode>MN</CarrierCode>
+         <CarrierName>Minn Airlines (SN)</CarrierName>
       </ContractCarrier>
       <ContractCarrier>
-         <CarrierCode>UA</CarrierCode>
-         <CarrierName>United Airlines (UA)</CarrierName>
+         <CarrierCode>UX</CarrierCode>
+         <CarrierName>UserExperience Airlines (UA)</CarrierName>
       </ContractCarrier>
    </Carriers>
    <CategoryId>9</CategoryId>
    <CategoryName>RENEWAL</CategoryName>
    <CompanyLegalNotificationContactId>74096</CompanyLegalNotificationContactId>
    <CompanyLegalNotificationContactName>Wissman, Kent</CompanyLegalNotificationContactName>
-   <CompanySignedByContactId>74096</CompanySignedByContactId>
-   <CompanySignedByContactName>Wissman, Kent</CompanySignedByContactName>
+   <CompanySignedByContactId>746096</CompanySignedByContactId>
+   <CompanySignedByContactName>Brown, Kent</CompanySignedByContactName>
    <ContractBeginDate>2018-07-01</ContractBeginDate>
    <ContractEndDate>2021-06-30</ContractEndDate>
    <ContractId>75828</ContractId>
-   <ContractName>Advanced Micro 0718 0621 RN-A1</ContractName>
+   <ContractName>Advanced Mono1 RN-A1</ContractName>
    <ContractStatusName>Active</ContractStatusName>
    <ContractTypeId>204</ContractTypeId>
-   <ContractTypeName>JV+ MCTA Commercial</ContractTypeName>
+   <ContractTypeName>JV HA 00549</ContractTypeName>
    <InternalContractCode>testing123</InternalContractCode>
    <OwnerCompanyId>4468</OwnerCompanyId>
-   <OwnerCompanyName>Advanced Micro Devices</OwnerCompanyName>
+   <OwnerCompanyName>Advanced Mono1</OwnerCompanyName>
    <PricingPolicyTypeId>1</PricingPolicyTypeId>
    <PricingPolicyTypeName>Domestic</PricingPolicyTypeName>
    <ShareWithCarriers/>
    <Subsidiaries>
       <ContractCompany>
-         <CompanyId>4468</CompanyId>
-         <CompanyName>Advanced Micro Devices</CompanyName>
+         <CompanyId>44568</CompanyId>
+         <CompanyName>Advanced Mono1</CompanyName>
       </ContractCompany>
    </Subsidiaries>
    <Timestamp>AAAADuXq9bg=</Timestamp>
