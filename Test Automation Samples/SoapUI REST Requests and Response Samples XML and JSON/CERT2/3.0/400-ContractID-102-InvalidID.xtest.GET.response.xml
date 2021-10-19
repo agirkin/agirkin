@@ -1,0 +1,11 @@
+<ModelStateError>
+   <Message>The request is invalid.</Message>
+   <ModelState>
+      <Property Name="ContractID">
+         <Error>
+            <code>102</code>
+            <message>ContractId is invalid.</message>
+         </Error>
+      </Property>
+   </ModelState>
+</ModelStateError>

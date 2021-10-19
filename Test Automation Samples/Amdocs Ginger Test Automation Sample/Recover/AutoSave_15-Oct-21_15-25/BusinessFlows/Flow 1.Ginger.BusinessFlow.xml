@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="fbcf7f55-82d2-48b0-bda8-9557076199c3" ItemType="BusinessFlow" CreatedBy="agirk" Created="202110152022" GingerVersion="3.9.0.0" Version="1" LastUpdateBy="agirk" LastUpdate="202110152022" />
+<BusinessFlow Description="Basic web search example test automation" Elapsed="3735" Guid="fbcf7f55-82d2-48b0-bda8-9557076199c3" Name="Navigate to Google and Do a Basic Search" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Status="Active">
+<ActivitiesGroups>
+<ActivitiesGroup Guid="f371e82e-bd85-49f1-990d-a894a60ca2be" Name="Group" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ActivitiesGroups>
+
+<TargetApplications>
+<TargetApplication AppName="AG Sample Web App" Guid="35151834-559a-4e09-b4fb-ccc5acd9e35d" LastExecutingAgentName="AG Sample Web App - Agent 1" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</TargetApplications>
+</BusinessFlow></GingerRepositoryItem>

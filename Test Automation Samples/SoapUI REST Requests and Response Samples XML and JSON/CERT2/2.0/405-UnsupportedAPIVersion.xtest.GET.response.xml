@@ -1,0 +1,4 @@
+<Http405Response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ReasonCode>UnsupportedApiVersion</ReasonCode>
+	<Message>The HTTP resource that matches the request URI 'https://crmconnectcert2.sabre.com/Contracts/bad-contract-id' does not support the API version '2.0'.</Message>
+</Http405Response>

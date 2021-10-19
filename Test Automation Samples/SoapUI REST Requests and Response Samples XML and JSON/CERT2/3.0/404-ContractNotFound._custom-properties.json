@@ -1,0 +1,10 @@
+{
+	"Login.userName": "SomeAPI",
+	"Login.password": "^SomePassword#",S
+	"Login.accessCode": "sistest2ua",
+	"Login.expectedHttpStatusCode": "200",
+
+	"GET.contractId": "202020202020",
+	"GET.ignoreFields": "",
+	"GET.expectedHttpStatusCode": "404"
+}

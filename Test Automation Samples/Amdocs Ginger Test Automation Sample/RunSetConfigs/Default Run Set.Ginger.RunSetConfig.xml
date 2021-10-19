@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="1b38e6fa-326b-47f5-855e-abcdefaadc32" ItemType="RunSetConfig" CreatedBy="agirk" Created="202110141336" GingerVersion="3.9.0.0" Version="1" LastUpdateBy="agirk" LastUpdate="202110141336" />
+<RunSetConfig Guid="1b38e6fa-326b-47f5-855e-abcdefaadc32" Name="Default Run Set" ParentGuid="00000000-0000-0000-0000-000000000000">
+<CategoriesDefinitions>
+<SolutionCategoryDefinition Category="Product" Guid="53db5047-82cd-48c5-acbb-c18eebde975a" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="TestType" Guid="4e499f8f-8cba-4097-bed9-1faef3684d2f" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="Release" Guid="1f8aab64-8908-48fc-b413-a1a74caeee00" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="Iteration" Guid="4479b002-295c-4c02-8b64-9ee93ee64d19" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="UserCategory1" Guid="d46bfe5d-73d0-4797-a331-fc753c2f479d" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="UserCategory2" Guid="93db9a85-81f3-4bfe-a429-95b3e3929298" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+<SolutionCategoryDefinition Category="UserCategory3" Guid="3654edd1-89fa-4fb4-a4e6-2cba8fcb0657" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedValueID="00000000-0000-0000-0000-000000000000" />
+</CategoriesDefinitions>
+
+<GingerRunners>
+<GingerRunner Guid="6c6e47a3-d1a0-4501-a6d4-afa6e685c765" Name="Runner 1" ParentGuid="00000000-0000-0000-0000-000000000000" RunOption="ContinueToRunall" />
+</GingerRunners>
+
+<SelfHealingConfiguration>
+<SelfHealingConfig EnableSelfHealing="True" Guid="71ac614c-843a-4a5e-bd26-c647a5514214" ParentGuid="00000000-0000-0000-0000-000000000000" ReprioritizePOMLocators="True" />
+</SelfHealingConfiguration>
+</RunSetConfig></GingerRepositoryItem>

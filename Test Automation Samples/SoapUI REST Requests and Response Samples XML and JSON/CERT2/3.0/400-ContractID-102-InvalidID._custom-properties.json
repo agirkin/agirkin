@@ -1,0 +1,10 @@
+{
+	"Login.userName": "TicketLocationAPI",
+	"Login.password": "SomePassword#",
+	"Login.accessCode": "SomeUserName",
+	"Login.expectedHttpStatusCode": "200",
+
+	"GET.contractId": "0",
+	"GET.ignoreFields": "",
+	"GET.expectedHttpStatusCode": "400"
+}

@@ -1,0 +1,4 @@
+{
+   "ReasonCode": "UnsupportedApiVersion",
+   "Message": "The HTTP resource that matches the request URI 'https://crmconnectcert2.sabre.com/Contracts/bad-contract-id' does not support the API version '2.0'."
+}
