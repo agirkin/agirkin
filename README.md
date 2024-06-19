@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋, My name is Andy Girkin
-#### I am a Director of Transformation
+#### This is my repo devoted to interests, work samples and general information about me.
 Career Highlights;
 •	People Management- 11 years
 •	Product Management- 10+ years
@@ -19,7 +19,7 @@ Career Highlights;
 
 Skills: Test Planning, Test Execution, Test Automation, Agile Methodologies, Program and Project Management. On my DevOps journey learning and growing.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I'm currently growing in AI knowledge, cloud, M365 Tenant migrations, OKTA and zero trust, Cryptocurrency and Blockchains and a number of other side interests. and I'm on a lifelong learning journey
 
 
 
